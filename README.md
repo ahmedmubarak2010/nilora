@@ -9,6 +9,7 @@ Open `index.html` in a browser. No build step is required.
 - `index.html` — page structure, launch messaging, and official links
 - `style.css` — responsive layout and NILORA brand styling
 - `script.js` — mobile navigation and native share / copy-link interaction
+- Browser tab icon uses `assets/Egyptian Landscape Emblem Logo.png`
 - `assets/Egyptian Landscape Emblem Logo.png` — approved NILORA emblem (add this image at this exact path)
 
 ## Official channels
